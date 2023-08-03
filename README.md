@@ -1,4 +1,6 @@
-# Challenge Conversor-AluraLatam
+# Challenge Conversor-Alura-Latam
+
+![Conversor Alura-One](https://github.com/DarioDev90/Conversor-Alura-One/assets/120586493/b4be169d-4917-48e1-a093-8633c84ffb6c)
 
 # Detalles del proyecto
 
